@@ -10,3 +10,5 @@
 
 - typescript
 - @types/node
+- ts-node-dev
+- eslint

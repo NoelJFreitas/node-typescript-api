@@ -12,3 +12,5 @@
 - @types/node
 - ts-node-dev
 - eslint
+- jest
+- supertest
